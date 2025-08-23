@@ -55,8 +55,8 @@
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/brandchitron/shipuaibot.git
-cd shipuaibot
+git clone https://github.com/voldy-coder/projet-zaraki-anos.git
+cd zarakibot
 npm install
 ```
 
@@ -111,7 +111,7 @@ node index.js
 
 > 1-Click to deploy on Render.com (supports free tier)
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/brandchitron/shipuaibot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/voldy-coder/projet-zaraki-anos.git)
 
 ---
 
@@ -129,8 +129,8 @@ node index.js
 | Source | Credit |
 |--------|--------|
 | 🐐 Base Bot | [GoatBot by NTkhang](https://github.com/ntkhang03/goatbot-v2) |
-| ✨ Fork + Refactor | Chitron Bhattacharjee |
-| 🎨 Style + Canvas | Custom rewritten by Chitron |
+| ✨ Fork + Refactor | Voldigo Zaraki Anos|
+| 🎨 Style + Canvas | Custom rewritten by Voldigo |
 | 🤖 AI Brain | OpenAI, Cohere, Shipu APIs |
 
 ---
