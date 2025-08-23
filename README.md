@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  🧠✨ ShiPu AI — Cyberpunk Messenger Bot
+  🧠✨ ZaRaki AI — Messenger Bot
 </h1>
 
 <p align="center">
@@ -16,14 +16,14 @@
 
 ---
 
-> 🧩 **ShiPu AI** is a futuristic, modular, and highly customized Messenger automation + chatbot system based on NTkhang's GoatBot V2 — but **rewritten**, **refactored**, and **reborn** with AI brains, cyberpunk visuals, and MongoDB support.
+> 🧩 **Zaraki AI** is a futuristic, modular, and highly customized Messenger automation + chatbot system based on NTkhang's GoatBot V2 — but **rewritten**, **refactored**, and **reborn** with AI brains, cyberpunk visuals, and MongoDB support.
 
 ---
 
 ## ⚠️ Disclaimer
 
 > This is **not the official version** of GoatBot by NTkhang.  
-> It is a **heavily modified** fork maintained independently by **Chitron Bhattacharjee**, with deep changes to command logic, memory system, UI/UX, and AI functionality.  
+> It is a **heavily modified** fork maintained independently by **Voldigo Zaraki Anos**, with deep changes to command logic, memory system, UI/UX, and AI functionality.  
 > All credits to the original GoatBot base go to [NTkhang](https://github.com/ntkhang03/goatbot-v2).
 
 ---
@@ -117,10 +117,10 @@ node index.js
 
 ## 👨‍💻 Maintainer
 
-**👤 Chitron Bhattacharjee**  
-🔗 [Facebook Profile](https://facebook.com/adirexcb)  
+**👤 Voldigo zaraki anos**  
+🔗 [Facebook Profile](https://facebook.com/voldigo.zaraki)  
 📧 chitronbhattacharjee@gmail.com  
-🌐 [My Dev Commands Collection (coming soon)](https://github.com/brandchitron)
+🌐 [My Dev Commands Collection (coming soon)](https://github.com/voldy-coder)
 
 ---
 
@@ -153,5 +153,5 @@ Pull requests, bug reports, and ideas are welcome!
 
 ---
 
-> 💖 **ShiPu AI: More than a bot. A stylish, cyberpunk AI friend.**  
-> — _Chitron Bhattacharjee_
+> 💖 **Zaraki AI: More than a bot. A stylish, cyberpunk AI friend.**  
+> — _Voldigo zaraki anos_
